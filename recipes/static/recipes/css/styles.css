@@ -278,4 +278,34 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 
+.preparations-steps h1,
+.preparations-steps h2,
+.preparations-steps h3,
+.preparations-steps h4,
+.preparations-steps h5,
+.preparations-steps h6,
+.preparations-steps pre {
+    margin: 2rem;
+}
+
+
+.preparations-steps ol, 
+.preparations-steps ul {
+    margin: 2rem;
+    padding: 2rem;
+}
+
+.center {
+    text-align: center;
+}
+
+.m-x {
+    margin: 0 var(--spacing-gutter-medium);
+}
+
+
+.m-y {
+    margin: var(--spacing-gutter-medium);
+}
+
 
